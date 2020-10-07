@@ -1,0 +1,6 @@
+C:\Users\Montreal\Desktop\Solari.Rodolfo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Montreal\Desktop\Solari.Rodolfo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Montreal\Desktop\Solari.Rodolfo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Montreal\Desktop\Solari.Rodolfo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Montreal\Desktop\Solari.Rodolfo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Montreal\Desktop\Solari.Rodolfo\Entidades\obj\Debug\Entidades.pdb
